@@ -3,6 +3,9 @@ export default function About()
 {
     return(
         <>
+        <div >
+          <img src="./images/profile.jpg" style={{borderRadius:'50%',width:'150px',height:'150px',objectFit:'left'}}/>
+        </div>
         <p>
         Hi, I'm [RAMAKRISHNA NAGELLA]. I'm a passionate web developer with a focus on creating
         engaging and user-friendly applications. I enjoy working with technologies
